@@ -36,22 +36,25 @@ const About = () => {
               things.
             </p>
             <p className="font-inter text-gray-600 dark:text-white/70 leading-relaxed mb-5">
+              I enrolled in{" "}
+              <span className="text-cyan font-medium">
+                Programming Hero Complete Web Development Course (Batch-13)
+              </span>{" "}
+              to sharpen my skills. By consistently delivering quality
+              assignments, I earned a spot in the prestigious{" "}
+              <span className="text-cyan font-medium">
+                SCIC (Super Career Incubator Program)
+              </span>{" "}
+              — an exclusive opportunity for top performers.
+            </p>
+            <p className="font-inter text-gray-600 dark:text-white/70 leading-relaxed mb-5">
               I specialize in building complete web and mobile applications
               using{" "}
               <span className="text-cyan font-medium">
                 MERN Stack, Next.js, TypeScript, Python, and Flutter
               </span>{" "}
               — with a strong focus on clean code, scalable architecture, and
-              real-world deployment. I enjoy solving real problems through
-              technology.
-            </p>
-            <p className="font-inter text-gray-600 dark:text-white/70 leading-relaxed mb-5">
-              I am enrolled in{" "}
-              <span className="text-cyan font-medium">
-                Programming Hero SCIC Batch-13
-              </span>{" "}
-              and currently working on my final year thesis targeting
-              IEEE/Springer/Scopus publication.
+              real-world deployment.
             </p>
             <p className="font-inter text-gray-600 dark:text-white/70 leading-relaxed mb-8">
               Outside of coding, I enjoy{" "}
