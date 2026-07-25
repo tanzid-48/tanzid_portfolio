@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-space: var(--font-space);
+  --font-inter: var(--font-inter);
+  --color-cyan: #06b6d4;
+  --color-cyan-light: #22d3ee;
+  --color-dark: #0a0a0a;
+  --color-dark-card: #111111;
+  --color-dark-border: #1f1f1f;
+  --color-light: #f8fafc;
+  --color-light-card: #ffffff;
+  --color-light-border: #e2e8f0;
+}
+
+@variant dark (&:where(.dark, .dark *));
+
+html {
+  scroll-behavior: smooth;
+}
