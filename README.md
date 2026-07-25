@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with Next.js 15, Tailwind CSS v4, and Framer Motion.
 
-🌐 **Live:** [tanzid_portfolio.vercel.app](https://tanzid_portfolio.vercel.app)
+🌐 **Live:** [tanzid-portfolio-ah38.vercel.app](https://tanzid-portfolio-ah38.vercel.app)
 
 ## Tech Stack
 
