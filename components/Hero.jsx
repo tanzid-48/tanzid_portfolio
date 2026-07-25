@@ -66,7 +66,7 @@ const Hero = () => {
             <a href="#projects" className="px-8 py-3 bg-cyan text-dark font-space font-semibold rounded-full hover:bg-cyan-light transition-all duration-300">
               View Projects
             </a>
-            <a href="/sample-resume.pdf" download className="px-8 py-3 border border-gray-300 dark:border-dark-border text-dark dark:text-white font-space rounded-full hover:border-cyan hover:text-cyan transition-all duration-300">
+            <a href="//tanzid-resume.pdf" download="Tanzid_Mondol_Resume.pdf"className="px-8 py-3 border border-gray-300 dark:border-dark-border text-dark dark:text-white font-space rounded-full hover:border-cyan hover:text-cyan transition-all duration-300">
               Download CV
             </a>
           </motion.div>
